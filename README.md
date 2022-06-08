@@ -8,6 +8,11 @@ Crezione di una tabella di impiegati con <b>Angular</b> e componenti di <b>Angul
 <h3>Link Angular Material</h3>
 <a href="https://material.angular.io/">Angular Material</a>
 
+Componenti Angular Material Utilizzati
+<ul>
+  <li><a href="https://material.angular.io/components/table/overview">Table</a></li>
+</ul>
+
 <br /> <br />
 
 <h1>Angular CLI instruction</h1>
