@@ -3,11 +3,10 @@
 Crezione di una tabella di impiegati con <b>Angular</b> e componenti di <b>Angular Material</b>
 
 <h3>Angular Documentation</h3>
-[Angular Material](https://angular.io/)
+<a href="https://angular.io/">Angular</a>
 
 <h3>Link Angular Material</h3>
-[Angular Material](https://material.angular.io/)
-
+<a href="https://material.angular.io/">Angular Material</a>
 
 <h1>Angular CLI instruction</h1>
 
